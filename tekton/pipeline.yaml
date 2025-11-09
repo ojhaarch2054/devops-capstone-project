@@ -7,7 +7,7 @@
 apiVersion: tekton.dev/v1beta1
 kind: Pipeline
 metadata:  
-  name: cd-pipeline
+  name: cd-pipeline2
 spec:
   workspaces:
     - name: pipeline-workspace
